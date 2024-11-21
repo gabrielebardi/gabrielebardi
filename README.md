@@ -5,6 +5,8 @@ I’m passionate about blockchain, digital assets, DeFi, AI/ML, and more. Curren
 
 📫 Reach me at: gabrielebardi.gb@gmail.com
 
+#NotAComputerScientist
+
 
 <!---
 BG4Finance/BG4Finance is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
