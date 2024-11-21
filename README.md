@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Gabriele, automation solution developer in the financial industry
-- 👀 I’m interested in Blockchains, digital assets, structured products, DeFi... but also, space, avionics, healthcare and semiconductors
-- 🌱 I’m currently learning to build smart contracts with Rust and deploy them on the Solana Devnet Blockchain but also studying for the CFA in ESG Investing
-- 💞️ I’m genuinely curious about many thing. I would like to collaborate to make sofisticated finacial products scalable and easier to access for retail investors as for institutional ones.
+- 👋 Hi, I’m Gabriele, used to be automation solution developer in the financial industry. Now geek for passion.
+- 👀 I’m interested in Blockchains, digital assets, structured products, DeFi and lately putting getting my hands dirty with ML and AI... but also, space, avionics, biohacking...
+- 🌱 Currently I am developing my own social network powered by AI.
+- 💞️ I’m genuinely curious about many thing. I love to drive innovation and my ultimate goal is to make sofisticated finacial products scalable and easier to access for retail investors as for institutional ones.
 - 📫 How to reach me? gabrielebardi.gb@gmail.com
 
 
