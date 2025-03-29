@@ -1,7 +1,7 @@
 Hi there 👋
 
 I’m Gabriele, a former automation solutions developer in finance, now coding for fun. 
-I’m passionate about blockchain, digital assets, DeFi, AI/ML, and more. Currently building an AI-powered social network.
+I’m passionate about blockchain, digital assets, DeFi, AI/ML, and more. Currently building a Tokenization Platform.
 
 📫 Reach me at: gabrielebardi.gb@gmail.com
 
